@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Recyclerview Home Work</string>
+    <string name="go">Go Over</string>
+    <string name="select">Select</string>
+    <string-array name="lists">
+        <item>Grid list</item>
+        <item>Linear list</item>
+    </string-array>
 </resources>
